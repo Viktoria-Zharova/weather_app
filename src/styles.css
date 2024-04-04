@@ -1,0 +1,31 @@
+
+.container {
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  max-width: 400px;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+.input {
+  /*width: 100%;*/
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/*.weather {*/
+/*  margin-top: 20px;*/
+/*}*/
